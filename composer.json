@@ -1,5 +1,5 @@
 {
-  "name": "pion/laravel-chunk-upload",
+  "name": "agravelot/laravel-chunk-upload-patched",
   "description": "Service for chunked upload with several js providers",
   "license": "MIT",
   "authors": [
